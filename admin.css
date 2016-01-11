@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+.insert-into-input {
+  color:#0074A3;
+  cursor:pointer;
+  text-decoration:none;
+  border-bottom:1px #0074A3 dotted;
+}
+
+body .select2-container-multi .select2-choices .select2-search-choice {
+  box-shadow: none;
+  border-radius:0;
+  background:#fff;  
+}
+
+#dynamic_inner_custom_box {counter-reset: questionnumber;}
+.metagroup {clear:both; padding:1em 0; border-top:1px #DDD solid; counter-increment: questionnumber;}
+.metagroup h4 {margin-top:0; }
+.metagroup h4:after {content: ' 'counter(questionnumber);}
+#dynamic_inner_custom_box>.metagroup:first-child {border-top:none;}
+.metagroup:before,
+.metagroup:after {
+    content: " ";
+    display: table;
+}
+
+.metagroup:after {
+    clear: both;
+}
+.metagroup .remove {float:right; }
+.metagroup label {display:block; margin-top:.5em;}
+.metagroup label input {margin-left:.5em; }
+.metagroup .inlined {float:left; margin-right:1em; width:48%; }
+.metagroup .floated {float:right;}
+
+.iris-picker {z-index:100; }
+
+.rwmb-key-val {min-width: 400px;}
+
+/*Custom theme options tweaks */
+.customize-section-description-container {padding-bottom:1em; }
+.customize-control-title {line-height:20px }
+.wp-full-overlay-sidebar {width:450px; }
+

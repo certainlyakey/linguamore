@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="122px" height="122px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g>
+        <g id="Layer 1">
+            <path d="M121.727,61.4252C121.727,94.7292 94.7286,121.727 61.4256,121.727C43.5466,121.727 27.4846,113.946 16.4416,101.584C6.9146,90.9212 1.1246,76.8502 1.1246,61.4252C1.1246,28.1222 28.1226,1.1252 61.4256,1.1252C94.7286,1.1252 121.727,28.1222 121.727,61.4252Z" style="fill:none;stroke-width:2.25px;stroke:rgb(109,111,113);"/>
+            <rect x="39.845" y="20.944" width="41.5" height="80.5" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M54.0947,31.9438L74.8447,31.9438" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M54.0947,43.1938L74.8447,43.1938" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M54.0947,54.6938L74.8447,54.6938" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M54.0947,66.1938L74.8447,66.1938" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M54.0947,77.6938L74.8447,77.6938" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M54.0947,89.1938L74.8447,89.1938" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M44.0947,29.9438L46.8447,33.4438L50.5947,25.6938" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M44.0947,42.5688L46.8447,46.0688L50.5947,38.3188" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M44.0947,55.1938L46.8447,58.6938L50.5947,50.9438" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M44.0947,66.5688L46.8447,70.0688L50.5947,62.3188" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M44.0947,79.1616L46.8447,82.6616L50.5947,74.9116" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+            <path d="M44.0947,89.5688L46.8447,93.0688L50.5947,85.3188" style="fill:none;stroke-width:2.03px;stroke:rgb(109,111,113);"/>
+        </g>
+    </g>
+</svg>
